@@ -36,7 +36,7 @@ const clientesMulheres = [
     },
     {
         nome: 'Mazinha',
-        idade: 48,
+        idade: 44,
     }
 ]
 

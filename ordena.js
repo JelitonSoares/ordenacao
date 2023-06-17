@@ -16,6 +16,7 @@ function ordenar(lista) {
     return lista
 }
 
+console.log(ordenar(clientesMulheres))
 clientesHomensOrdenado = ordenar(clientesHomens);
 clientesMulheresOrdenado = ordenar(clientesMulheres);
 module.exports = {  clientesHomensOrdenado, clientesMulheresOrdenado  };
