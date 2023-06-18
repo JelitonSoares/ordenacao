@@ -1,3 +1,5 @@
+//         Ordenando com MergeSort
+
 const { clientesHomensOrdenado, clientesMulheresOrdenado} = require('./ordena');
 
 // console.log(clientesHomensOrdenado)

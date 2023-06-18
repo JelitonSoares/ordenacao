@@ -1,3 +1,5 @@
+//                   Ordenando com o InsertionSort
+
 const {  clientesHomens, clientesMulheres  } = require('./clientes');
 
 // let teste = clientesHomens[3];
